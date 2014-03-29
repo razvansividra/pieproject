@@ -4,4 +4,5 @@ Second commit of index-version 1 of project.
 First release-version 1.2 of project. 
 First commit in branch 1-upgrade 1
 Second release of index-bug fixed. 
+Final release.-version 2 of index. 
 
